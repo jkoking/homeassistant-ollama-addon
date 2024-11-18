@@ -1,5 +1,55 @@
 # Changelog
 
+# 1.0.0 (2024-11-18)
+
+
+### Bug Fixes
+
+* add various documentation ([68d8bab](https://github.com/jkoking/homeassistant-ollama-addon/commit/68d8bab10f11fada3d659abad4da84efee82a2f3))
+* **deps:** Add renovate configuration ([9a86d04](https://github.com/jkoking/homeassistant-ollama-addon/commit/9a86d049300f679113abc2013d4303536f2e6a50))
+* **deps:** add semantic release ([890d63e](https://github.com/jkoking/homeassistant-ollama-addon/commit/890d63ed632a07b02294c37a9f479459ac00c540))
+* **deps:** all updates are of type "fix" ([8f505cd](https://github.com/jkoking/homeassistant-ollama-addon/commit/8f505cd0f2ad4662be8400255e19b931a69c46e6))
+* **deps:** Correct semantic release configuration ([1c6f91b](https://github.com/jkoking/homeassistant-ollama-addon/commit/1c6f91bcda3111807a538af999a0c4f7a82ac713))
+* **deps:** update dependency ollama/ollama to v0.1.47 ([d9b28ee](https://github.com/jkoking/homeassistant-ollama-addon/commit/d9b28eeb0cfa5889954e0753e557432cd847a98b))
+* **deps:** update dependency ollama/ollama to v0.1.48 ([fe5ec88](https://github.com/jkoking/homeassistant-ollama-addon/commit/fe5ec88711f1455177fbddc4caeece500b06bdcb))
+* **deps:** update dependency ollama/ollama to v0.2.0 ([59d754d](https://github.com/jkoking/homeassistant-ollama-addon/commit/59d754d88854ca8a290883b5729dc34a133fb375))
+* **deps:** update dependency ollama/ollama to v0.2.1 ([95bc944](https://github.com/jkoking/homeassistant-ollama-addon/commit/95bc944f8f6a31799b59041dedebcda4713e4bbc))
+* **deps:** update dependency ollama/ollama to v0.2.2 ([4cb718b](https://github.com/jkoking/homeassistant-ollama-addon/commit/4cb718bb20804c1f4799dcb44815056abaaaa552))
+* **deps:** update dependency ollama/ollama to v0.2.3 ([734e1a4](https://github.com/jkoking/homeassistant-ollama-addon/commit/734e1a49cbb6238b29827b1d87746f954b1f073e))
+* **deps:** update dependency ollama/ollama to v0.2.4 ([b85ec45](https://github.com/jkoking/homeassistant-ollama-addon/commit/b85ec45528be002d28049756f06e7dd2ba7992b4))
+* **deps:** update dependency ollama/ollama to v0.2.6 ([4f7bbfd](https://github.com/jkoking/homeassistant-ollama-addon/commit/4f7bbfde9ab27cfd580e321e685db2e0fe118db8))
+* **deps:** update dependency ollama/ollama to v0.2.7 ([debda99](https://github.com/jkoking/homeassistant-ollama-addon/commit/debda99ae04ed79fd386bf5600157e75b66b18d5))
+* **deps:** update dependency ollama/ollama to v0.2.8 ([edb58bb](https://github.com/jkoking/homeassistant-ollama-addon/commit/edb58bb368a726cd240fe6d3999bf4c8c23eea6b))
+* **deps:** update dependency ollama/ollama to v0.3.0 ([613c189](https://github.com/jkoking/homeassistant-ollama-addon/commit/613c189fa36a7da7d1165cd3762883aed7939f09))
+* **deps:** update dependency ollama/ollama to v0.3.1 ([24e36e3](https://github.com/jkoking/homeassistant-ollama-addon/commit/24e36e39a827d01205fad143beb1f99b78b08ab2))
+* **deps:** update dependency ollama/ollama to v0.3.10 ([6c756a6](https://github.com/jkoking/homeassistant-ollama-addon/commit/6c756a6e016d55984c542d22c35685c4da929a9b))
+* **deps:** update dependency ollama/ollama to v0.3.11 ([e391408](https://github.com/jkoking/homeassistant-ollama-addon/commit/e3914089fe89ae11c1e2c391da2442dcdc337e46))
+* **deps:** update dependency ollama/ollama to v0.3.12 ([d04821f](https://github.com/jkoking/homeassistant-ollama-addon/commit/d04821f6a4510181aeea383031041d6c447a9d5e))
+* **deps:** update dependency ollama/ollama to v0.3.13 ([e4e7b90](https://github.com/jkoking/homeassistant-ollama-addon/commit/e4e7b903a999db5f26f688e61714fad8ee5aed3b))
+* **deps:** update dependency ollama/ollama to v0.3.14 ([e002505](https://github.com/jkoking/homeassistant-ollama-addon/commit/e0025051e4310ca5a66bd09fed499a6f366b6cd7))
+* **deps:** update dependency ollama/ollama to v0.3.2 ([58e0c2b](https://github.com/jkoking/homeassistant-ollama-addon/commit/58e0c2b8b7116500f2783dafc34edae3e162852d))
+* **deps:** update dependency ollama/ollama to v0.3.3 ([787a458](https://github.com/jkoking/homeassistant-ollama-addon/commit/787a458038a021e27e1be05ae2e80a1885f39b37))
+* **deps:** update dependency ollama/ollama to v0.3.4 ([5d263b9](https://github.com/jkoking/homeassistant-ollama-addon/commit/5d263b9d8479629072b1b8b7c48634d7cea29a26))
+* **deps:** update dependency ollama/ollama to v0.3.6 ([df771b8](https://github.com/jkoking/homeassistant-ollama-addon/commit/df771b83caa7c42f79dbbc48519c153f1520b2b2))
+* **deps:** update dependency ollama/ollama to v0.3.7 ([5a88e30](https://github.com/jkoking/homeassistant-ollama-addon/commit/5a88e30ac6a24bf26e9dce8047f9462021b19ca1))
+* **deps:** update dependency ollama/ollama to v0.3.8 ([fc857e2](https://github.com/jkoking/homeassistant-ollama-addon/commit/fc857e2d9e96153385caf6ae9b9f56cb781e3748))
+* **deps:** update dependency ollama/ollama to v0.3.9 ([e0d07ba](https://github.com/jkoking/homeassistant-ollama-addon/commit/e0d07bafd26c82ece8f21f9769a827251cf500cd))
+* **deps:** update dependency ollama/ollama to v0.4.0 ([b9d1e13](https://github.com/jkoking/homeassistant-ollama-addon/commit/b9d1e136e706b542618b6be97535944b540fa6e7))
+* **deps:** update dependency ollama/ollama to v0.4.1 ([c094ddd](https://github.com/jkoking/homeassistant-ollama-addon/commit/c094ddde52afbd61f5cea6c0ca8d6442e89bf9e0))
+* **deps:** update dependency ollama/ollama to v0.4.2 ([10dc592](https://github.com/jkoking/homeassistant-ollama-addon/commit/10dc592acd96abd09eb5753eab94718e30db7a24))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v37.434.3 ([ff201b8](https://github.com/jkoking/homeassistant-ollama-addon/commit/ff201b8b3ff69dbc2e91f03938579efa533f55a1))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v37.437.3 ([94e3607](https://github.com/jkoking/homeassistant-ollama-addon/commit/94e3607fd8a053837e845cb9c0600fda621b1290))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v37.439.0 ([b2cd31f](https://github.com/jkoking/homeassistant-ollama-addon/commit/b2cd31f7007a24393872a0be0cf1e025ff637854))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v37.440.4 ([df847c1](https://github.com/jkoking/homeassistant-ollama-addon/commit/df847c158688313caaee48aba4d1c767b3c55c5d))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v38 ([1692aa0](https://github.com/jkoking/homeassistant-ollama-addon/commit/1692aa0ba953adfe464ca0d0c8d9b084bb74681f))
+* introduce a 24 hour delay before automerge ([cd0364d](https://github.com/jkoking/homeassistant-ollama-addon/commit/cd0364d2a761eda75b4fa3b14d6cc62b1ad14d35))
+
+
+### Features
+
+* Initial implementation ([2223adf](https://github.com/jkoking/homeassistant-ollama-addon/commit/2223adf126cb7fed8557772f4c31daf7f48082ac))
+* Keep models loaded in memory ([0480534](https://github.com/jkoking/homeassistant-ollama-addon/commit/048053459584642cde3ac2b817d73903704e09ce))
+
 ## [1.1.32](https://github.com/SirUli/homeassistant-ollama-addon/compare/v1.1.31...v1.1.32) (2024-11-16)
 
 
